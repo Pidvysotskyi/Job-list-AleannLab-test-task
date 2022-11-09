@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/Job-list-AleannLab-test-task/static/css/main.7acaea2f.css",
+    "main.js": "/Job-list-AleannLab-test-task/static/js/main.b50baae0.js",
+    "index.html": "/Job-list-AleannLab-test-task/index.html",
+    "main.7acaea2f.css.map": "/Job-list-AleannLab-test-task/static/css/main.7acaea2f.css.map",
+    "main.b50baae0.js.map": "/Job-list-AleannLab-test-task/static/js/main.b50baae0.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.b50baae0.js"
   ]
 }
