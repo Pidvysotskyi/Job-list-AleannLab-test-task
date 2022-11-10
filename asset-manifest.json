@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Job-list-AleannLab-test-task/static/css/main.7acaea2f.css",
-    "main.js": "/Job-list-AleannLab-test-task/static/js/main.b50baae0.js",
+    "main.css": "/Job-list-AleannLab-test-task/static/css/main.b5320759.css",
+    "main.js": "/Job-list-AleannLab-test-task/static/js/main.ec94efe0.js",
     "index.html": "/Job-list-AleannLab-test-task/index.html",
-    "main.7acaea2f.css.map": "/Job-list-AleannLab-test-task/static/css/main.7acaea2f.css.map",
-    "main.b50baae0.js.map": "/Job-list-AleannLab-test-task/static/js/main.b50baae0.js.map"
+    "main.b5320759.css.map": "/Job-list-AleannLab-test-task/static/css/main.b5320759.css.map",
+    "main.ec94efe0.js.map": "/Job-list-AleannLab-test-task/static/js/main.ec94efe0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.b50baae0.js"
+    "static/css/main.b5320759.css",
+    "static/js/main.ec94efe0.js"
   ]
 }
